@@ -149,7 +149,7 @@ EMAIL_HOST = 'smtp.mailtrap.io'
 EMAIL_HOST_USER = 'c5d7ad62787080'
 EMAIL_HOST_PASSWORD = '6dc0e0e628aaa5'
 EMAIL_PORT = 2525
-EMAIL_USE_TLS = True
+#EMAIL_USE_TLS = True
 
 
 try:
